@@ -1,0 +1,3 @@
+contents_TIZrNb过大上传不上去，大家可以通过对contents那个excel进行公式编辑，来得到contents_TIZrNb.
+如有任何问题可以跟通讯作者进行联系。
+代码写的不是很漂亮，大家轻喷。
